@@ -1,4 +1,4 @@
 [project]
 name = "lens_project"
 version = "0.1"
-dependencies = ["numpy"]
+dependencies = ["numpy==1.26.0"]
